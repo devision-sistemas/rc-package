@@ -3,6 +3,7 @@
     "description": "Project to host shared classes used by base theme and modules",
     "type": "library",
     "version": "0.1.0",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Reaction\\Base\\": "src/"
