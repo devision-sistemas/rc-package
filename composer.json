@@ -2,8 +2,8 @@
     "name": "reaction-digital/base-class",
     "description": "Project to host shared classes used by base theme and modules",
     "type": "library",
-    "version": "0.1.0",
-    "minimum-stability": "dev",
+    "version": "1.0.0",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Reaction\\Base\\": "src/"
