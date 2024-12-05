@@ -1,0 +1,18 @@
+{
+    "name": "reaction-digital/base-class",
+    "description": "Project to host shared classes used by base theme and modules",
+    "type": "library",
+    "version": "0.1.0",
+    "autoload": {
+        "psr-4": {
+            "Reaction\\Base\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Celso Trindade",
+            "email": "celsomtrindade@hotmail.com"
+        }
+    ],
+    "require": {}
+}
